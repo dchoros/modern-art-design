@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.1cbd305c.js",
-    "static/media/slider.mp4": "/static/media/slider.966d06409c76710c8d72.mp4",
-    "static/media/favicon.png": "/static/media/favicon.7538ee4ec6655aea9043.png",
-    "static/media/pirulen.ttf": "/static/media/pirulen.4d2c7895db65e162d743.ttf",
-    "static/media/logo.png": "/static/media/logo.c2e77bae16aae0955f1a.png",
-    "index.html": "/index.html",
-    "main.1cbd305c.js.map": "/static/js/main.1cbd305c.js.map"
+    "main.js": "/modern-art-design/static/js/main.f52e6d1b.js",
+    "static/media/slider.mp4": "/modern-art-design/static/media/slider.966d06409c76710c8d72.mp4",
+    "static/media/favicon.png": "/modern-art-design/static/media/favicon.7538ee4ec6655aea9043.png",
+    "static/media/pirulen.ttf": "/modern-art-design/static/media/pirulen.4d2c7895db65e162d743.ttf",
+    "static/media/logo.png": "/modern-art-design/static/media/logo.c2e77bae16aae0955f1a.png",
+    "index.html": "/modern-art-design/index.html",
+    "main.f52e6d1b.js.map": "/modern-art-design/static/js/main.f52e6d1b.js.map"
   },
   "entrypoints": [
-    "static/js/main.1cbd305c.js"
+    "static/js/main.f52e6d1b.js"
   ]
 }
